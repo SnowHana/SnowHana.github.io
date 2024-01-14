@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+_Hello! Welcome to my blog!_
 
-Maybe say a some things about yourself.
+I'm Daniel, and this is my digital den, where I keep records of my personal projects.
 
-Or maybe what you plan to blog about.
+Although there aren't many posts or projects at the moment, but I'll try to add them on a regular basis, and update my precious visitors about what I am working on!
